@@ -3,12 +3,12 @@
 <h4 align="left"> :computer: Looking for job in domain of Machine Learning and Deep Learning</h1>
 
 
-I'm Statistics and Machine Learning Master's at Linköping University Sweden 2019-2021 with 3 years of software development expirence in British Telecom Project at Tech Mahindra Ltd Pune India. 
+I'm Statistics and Machine Learning Master's at Linköping University Sweden 2019-2021 with 3 years of software development experience in British Telecom Project at Tech Mahindra Ltd Pune India. 
 
-I am currently doing my Master thesis with Center for Medical Image Science and Visualization Lab Linköping for 3D segmentation of Heart CT Scan Images using different CNN configurations with Pythorch Framework. 
+I am currently doing my Master's thesis with the Center for Medical Image Science and Visualization Lab Linköping for 3D segmentation of Heart CT Scan Images using different CNN configurations with Pythorch Framework. 
 
-- 👯 I’m looking to collaborate for ML or DL projects.
-- 💬 Ask me about Machine Learning and Deep Learning. 
+- 👯 I’m open to collaborating on ML or DL projects.
+- 💬 Ask me about Machine Learning, Deep Learning and Python backend development. 
 - 📫 How to reach me: a.amannayak@gmail.com or [LinkedIn](https://www.linkedin.com/in/amannayak/)
 
 :books: Repos to look for :
