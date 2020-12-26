@@ -4,7 +4,7 @@ I'm Statistics and Machine Learning Master's at Linköping University Sweden 201
 
 I am currently doing my Master thesis with Center for Medical Image Science and Visualization Lab Linköping for 3D segmentation of Heart CT Scan Images using different CNN configurations with Pythorch Framework. 
 
-- 👯 I’m looking to collaborate on new open source plug and play auto ML framework for MSME.
+- 👯 I’m looking to collaborate for ML or DL projects.
 - 💬 Ask me about Machine Learning and Deep Learning. 
 - 📫 How to reach me: a.amannayak@gmail.com or [LinkedIn](https://www.linkedin.com/in/amannayak/)
 
