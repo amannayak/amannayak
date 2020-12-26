@@ -1,4 +1,7 @@
-<h2 align="center"> Hi there 👋 I'm Aman Nayak                                      Linköping Sweden </h1>
+<h2 align="center"> Hi there 👋 I'm Aman Nayak</h1>
+<h4 align="left"> :european_castle: Linköping Sweden</h1>
+<h4 align="left"> :computer: Looking for job in domain of Machine Learning and Deep Learning</h1>
+
 
 I'm Statistics and Machine Learning Master's at Linköping University Sweden 2019-2021 with 3 years of software development expirence in British Telecom Project at Tech Mahindra Ltd Pune India. 
 
