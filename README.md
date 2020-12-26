@@ -1,4 +1,4 @@
-<h2 align="left"> Hi there 👋 I'm Aman Nayak  </h1> <h4 align="right"> :pushpin: Linköping Sweden </h1>
+<h2 align="center"> Hi there 👋 I'm Aman Nayak                                     :pushpin: Linköping Sweden </h1>
 
 I'm Statistics and Machine Learning Master's with 3 years of software development expirence in British Telecom Project at Tech Mahindra Ltd Pune India.   
 
