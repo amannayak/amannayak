@@ -10,9 +10,7 @@ I am currently doing my Master's thesis with the Center for Medical Image Scienc
 - 👯 I’m open to collaborating on ML or DL projects.
 - 💬 Ask me about Machine Learning, Deep Learning and Python backend development. 
 - :bookmark_tabs: [CV](https://github.com/amannayak/Resume.git) 
-- 📫 How to reach me: a.amannayak@gmail.com 
-- [LinkedIn](https://www.linkedin.com/in/amannayak/)
-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+- 📫 How to reach me: a.amannayak@gmail.com or [LinkedIn](https://www.linkedin.com/in/amannayak/)
 
 :books: Repos to look for :
 
