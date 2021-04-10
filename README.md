@@ -28,7 +28,7 @@ I am currently doing my Master's thesis with the Center for Medical Image Scienc
 * CNN
 * RNN
 
-:pushpin: [Time Series](https://github.com/amannayak/Machine-Learning.git)
+:pushpin: [Time Series](https://github.com/amannayak/Time-Series-and-Sequence-Analysis.git)
 
 * AR Models
 * Structural model, Kalman filtering and EM
