@@ -35,7 +35,7 @@ I am currently doing my Master's thesis with the Center for Medical Image Scienc
 * Recurrent Neural Networks for Time Series
 
 
-:pushpin: Text Mining (Repo with content will be public post Mar 16 2021)
+<!-- :pushpin: Text Mining (Repo with content will be public post Mar 16 2021) -->
 
 :pushpin: [Bayesian Statistics](https://github.com/amannayak/Bayesian-Modeling.git)
 * Bernoulli Distribution, Log-normal distribution and the Gini coefficient, Bayesian inference for the concentration parameter in the von Mises distribution
