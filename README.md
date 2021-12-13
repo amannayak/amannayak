@@ -3,9 +3,7 @@
 <!-- <h4 align="left"> :computer: Working as Data Science Analyst @ Accenture S&C Gmbh</h1> -->
 
 
-<!-- I'm Data Scientist/ ML Engineer with master's in Statistics and Machine Learning Linköping University Sweden. I have previously worked as software developer in British Telecom Project at Tech Mahindra Ltd Pune India. 
-
--->
+<!-- I'm Data Scientist/ ML Engineer with master's in Statistics and Machine Learning Linköping University Sweden. I have previously worked as software developer in British Telecom Project at Tech Mahindra Ltd Pune India.-->
 
 - 👯 I’m open to collaborating on ML or DL projects.
 - 💬 Ask me about Machine Learning, Deep Learning and Python backend development. 
