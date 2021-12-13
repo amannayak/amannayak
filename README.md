@@ -1,11 +1,11 @@
 <h2 align="center"> Hi there 👋 I'm Aman Nayak</h1>
-<h4 align="left"> :european_castle: Linköping Sweden</h1>
-<!-- <h4 align="left"> :computer: Looking for job in domain of Machine Learning and Deep Learning</h1> -->
+<h4 align="left"> :european_castle: Cologne Germany</h1>
+<!-- <h4 align="left"> :computer: Working as Data Science Analyst @ Accenture S&C Gmbh</h1> -->
 
 
-<!-- I'm Statistics and Machine Learning Master's student at Linköping University Sweden 2019-2021 with 3 years of software development experience in British Telecom Project at Tech Mahindra Ltd Pune India. 
+<!-- I'm Data Scientist/ ML Engineer with master's in Statistics and Machine Learning Linköping University Sweden. I have previously worked as software developer in British Telecom Project at Tech Mahindra Ltd Pune India. 
 
-I am currently doing my Master's thesis with the Center for Medical Image Science and Visualization Lab Linköping for 3D segmentation of Heart CT Scan Images using different CNN configurations with Pythorch Framework.  -->
+-->
 
 - 👯 I’m open to collaborating on ML or DL projects.
 - 💬 Ask me about Machine Learning, Deep Learning and Python backend development. 
