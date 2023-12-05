@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋 I'm Aman Nayak</h1>
 <h4 align="left"> :european_castle: Cologne Germany</h1>
-<h4 align="left"> :computer: Working as Data Science Analyst @ Accenture S&C Gmbh</h1> 
+<h4 align="left"> :computer: Working as Machine Learning Engineer @ RTL Data Gmbh</h1> 
 
 I'm Data Scientist/ ML Engineer with master's in Statistics and Machine Learning Linköping University Sweden. I have previously worked as software developer in British Telecom Project at Tech Mahindra Ltd Pune India.
 
