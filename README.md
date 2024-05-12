@@ -2,10 +2,10 @@
 <h4 align="left"> :european_castle: Cologne Germany</h1>
 <h4 align="left"> :computer: Working as Machine Learning Engineer @ RTL Data Gmbh</h1> 
 
-I'm Data Scientist/ ML Engineer with master's in Statistics and Machine Learning Linköping University Sweden. I have previously worked as software developer in British Telecom Project at Tech Mahindra Ltd Pune India.
+I'm Data Scientist/ ML Engineer with master's in Statistics and Machine Learning Linköping University Sweden. I have previously worked as Data Scientist with Accenture S&C Germany and software developer in British Telecom Project at Tech Mahindra Ltd Pune India.
 
 - 👯 I’m open to collaborating on ML or DL projects.
-- 💬 Ask me about Machine Learning, Deep Learning and Python backend development. 
+- 💬 Ask me about Machine Learning, Deep Learning, MLOps, LLMOps and Python backend development. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amannayak/)
 
 :books: Repos to look for :
